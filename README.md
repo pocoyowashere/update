@@ -1,6 +1,11 @@
-2
+3
 ||| 
-New Update available!!!
-Instructions:
-Select the update option from home page menu to update!!
+
+
+
+
+
+
+Select update option from main menu to update
+
 Enjoy!!!
