@@ -1,3 +1,6 @@
-1 
+2
 ||| 
-Type your message here
+New Update available!!!
+Instructions:
+Select the update option from home page menu to update!!
+Enjoy!!!
