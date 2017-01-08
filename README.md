@@ -6,6 +6,10 @@
 
 
 
-Select update option from main menu to update
 
-Enjoy!!!
+
+Hello!
+
+
+
+Welcome to FreedomBox!!!!
